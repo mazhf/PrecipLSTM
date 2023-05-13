@@ -1,4 +1,4 @@
-### Source Code for Papers:
+### Source Code for Paper:
 
 `PrecipLSTM: A Meteorological Spatiotemporal LSTM for Precipitation Nowcasting`
 
